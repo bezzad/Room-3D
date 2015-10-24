@@ -1,0 +1,14 @@
+E:\GNRoom\GNRoom\bin\Debug\GNRoom.exe
+E:\GNRoom\GNRoom\bin\Debug\GNRoom.pdb
+E:\GNRoom\GNRoom\obj\Debug\ResolveAssemblyReference.cache
+E:\GNRoom\GNRoom\obj\Debug\GNRoom.Properties.Resources.resources
+E:\GNRoom\GNRoom\obj\Debug\GNRoom.csproj.GenerateResource.Cache
+E:\GNRoom\GNRoom\obj\Debug\GNRoom.exe
+E:\GNRoom\GNRoom\obj\Debug\GNRoom.pdb
+D:\GNRoom\GNRoom\obj\Debug\GNRoom.exe
+D:\GNRoom\GNRoom\obj\Debug\GNRoom.pdb
+D:\GNRoom\GNRoom\bin\Debug\GNRoom.exe
+D:\GNRoom\GNRoom\bin\Debug\GNRoom.pdb
+D:\GNRoom\GNRoom\obj\Debug\ResolveAssemblyReference.cache
+D:\GNRoom\GNRoom\obj\Debug\GNRoom.Properties.Resources.resources
+D:\GNRoom\GNRoom\obj\Debug\GNRoom.csproj.GenerateResource.Cache
